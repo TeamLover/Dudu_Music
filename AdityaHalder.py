@@ -859,8 +859,8 @@ async def change_stream(chat_id):
         [
             [
                 InlineKeyboardButton(
-                    text="➕ Add Me",
-                    url="https://t.me/Dudu_Music_Bot",
+                    text="𝗔𝗱𝗱 𝗺𝗲 𝗕𝗮𝗯𝘆",
+                    url="https://t.me/Dudu_Music_Bot?startgroup=true",
                 )
             ],
         ]
@@ -953,8 +953,8 @@ async def stream_audio_or_video(client, message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="➕ Add Me",
-                            url="https://t.me/Dudu_Music_Bot",
+                            text="𝗔𝗱𝗱 𝗺𝗲 𝗕𝗮𝗯𝘆",
+                            url="https://t.me/Dudu_Music_Bot?startgroup=true",
                         )
                     ],
                 ]
@@ -1027,8 +1027,8 @@ async def stream_audio_or_video(client, message):
         [
             [
                 InlineKeyboardButton(
-                    text="➕ Add Me",
-                    url="https://t.me/Dudu_Music_Bot",
+                    text="𝗔𝗱𝗱 𝗺𝗲 𝗕𝗮𝗯𝘆",
+                    url="https://t.me/Dudu_Music_Bot?startgroup=true",
                 )
             ],
         ]
@@ -1366,8 +1366,8 @@ With Your ☛ Other Friends.**"""
             ],
             [
                 InlineKeyboardButton(
-                    text="➕ Add Me",
-                    url="https://t.me/Dudu_Music_Bot",
+                    text="𝗔𝗱𝗱 𝗺𝗲 𝗕𝗮𝗯𝘆",
+                    url="https://t.me/Dudu_Music_Bot?startgroup=true",
                 )
             ],
         ]
@@ -1444,8 +1444,8 @@ async def check_bot_stats(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="➕ Add Me",
-                    url="https://t.me/Dudu_Music_Bot",
+                    text="𝗔𝗱𝗱 𝗺𝗲 𝗕𝗮𝗯𝘆",
+                    url="https://t.me/Dudu_Music_Bot?startgroup=true",
                 )
             ]
         ]
