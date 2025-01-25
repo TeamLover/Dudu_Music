@@ -859,8 +859,8 @@ async def change_stream(chat_id):
         [
             [
                 InlineKeyboardButton(
-                    text="🗑️ Close",
-                    callback_data="force_close",
+                    text="➕ Add Me",
+                    url="https://t.me/Dudu_Music_Bot",
                 )
             ],
         ]
@@ -953,8 +953,8 @@ async def stream_audio_or_video(client, message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🗑️ Close",
-                            callback_data="force_close",
+                            text="➕ Add Me",
+                            url="https://t.me/Dudu_Music_Bot",
                         )
                     ],
                 ]
@@ -1027,8 +1027,8 @@ async def stream_audio_or_video(client, message):
         [
             [
                 InlineKeyboardButton(
-                    text="🗑️ Close",
-                    callback_data="force_close",
+                    text="➕ Add Me",
+                    url="https://t.me/Dudu_Music_Bot",
                 )
             ],
         ]
@@ -1366,8 +1366,8 @@ With Your ☛ Other Friends.**"""
             ],
             [
                 InlineKeyboardButton(
-                    text="🗑️ Close",
-                    callback_data="force_close",
+                    text="➕ Add Me",
+                    url="https://t.me/Dudu_Music_Bot",
                 )
             ],
         ]
@@ -1444,8 +1444,8 @@ async def check_bot_stats(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="🗑️ Close",
-                    callback_data="force_close",
+                    text="➕ Add Me",
+                    url="https://t.me/Dudu_Music_Bot",
                 )
             ]
         ]
