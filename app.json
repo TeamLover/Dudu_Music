@@ -6,7 +6,7 @@
     "vcbot",
     "musicplayer"
   ],
-  "repository": "https://github.com/adityahalder/adityaplayer",
+  "repository": "https://github.com/TeamLover/Dudu_Music",
   "logo": "https://envs.sh/9oZ.jpg",
   "stack": "container",
   "env": {
